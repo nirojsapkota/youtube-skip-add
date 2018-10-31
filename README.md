@@ -1,6 +1,5 @@
 # youtube-skip-add Chrome extension
-- This is not an extension to avoid displaying advertisement but rather will automatically trigger "skip add" click.
-- This extension was created for fun.
+This is not an extension to avoid displaying advertisement but rather will automatically trigger "skip add" click. I am lazy to keep on pressing "Skip Add" while watching youtube videos and NO i don't have paid subscription to youtube. This is why i spent couple of hours to create this plugin FOR SELF.
 
 # Installation
 - Clone or download this repo.
